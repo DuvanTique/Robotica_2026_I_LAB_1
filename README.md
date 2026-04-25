@@ -86,11 +86,18 @@ Secuencia:
 7. Empieza el decorado del pastel
 8. El robot vuelve a home
 9. El pastel se traslada automáticamente
+   
 ---
 
 ### Diseño de la Herramienta
+La herramienta del robot fue diseñada mediante impresión 3D utilizando PLA como material base. Consta de dos piezas principales: la primera se acopla directamente al robot, mientras que la segunda sostiene el marcador. Ambas piezas se unen mediante un pasador, al cual se incorpora un resorte que permite al marcador tener un rango de movimiento controlado. Este mecanismo asegura que la herramienta no se fracture al entrar en contacto con el workobject, garantizando tanto la funcionalidad como la durabilidad del sistema.
 ![EnsamblajeHerramienta](Imagenes/Ensamblaje_Herramienta.png)
 [Planos](PlanosHerramienta.pdf)
+
+---
+
+### Simulaciónn en robotStudio
+[![Ver video](https://img.youtube.com/vi/98ZQVTQvyAo/0.jpg)](https://youtu.be/98ZQVTQvyAo)
 
 
 
