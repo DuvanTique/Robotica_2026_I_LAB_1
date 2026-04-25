@@ -99,6 +99,14 @@ La herramienta del robot fue diseñada mediante impresión 3D utilizando PLA com
 ### Simulaciónn en robotStudio
 [![Ver video](https://img.youtube.com/vi/98ZQVTQvyAo/0.jpg)](https://youtu.be/98ZQVTQvyAo)
 
+---
+
+### Implementación en el laboratorio
+
+[![Ver video](https://img.youtube.com/vi/yADe7vtRQms/0.jpg)](https://youtu.be/yADe7vtRQms)
+
+---
+
 
 
  
