@@ -108,6 +108,14 @@ Secuencia:
 7. Empieza el decorado del pastel
 8. El robot vuelve a home
 9. El pastel se traslada automáticamente
+
+![Diagrama del flujo](ABB_IRC140_flow_diagram.svg).
+
+### Codigo RAPID
+
+[Ver módulo RAPID Module1](/Module1.mod)
+
+
    
 ---
 
