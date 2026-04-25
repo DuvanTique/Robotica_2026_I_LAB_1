@@ -88,5 +88,11 @@ Secuencia:
 9. El pastel se traslada automáticamente
 ---
 
+### Diseño de la Herramienta
+![EnsamblajeHerramienta](Imagenes/Ensamblaje_Herramienta.png)
+[Planos](docs/Laboratorio1.pdf)
+
+
+
  
 
