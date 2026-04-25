@@ -90,7 +90,7 @@ Secuencia:
 
 ### Diseño de la Herramienta
 ![EnsamblajeHerramienta](Imagenes/Ensamblaje_Herramienta.png)
-[Planos](docs/Laboratorio1.pdf)
+[Planos](PlanosHerramienta.pdf)
 
 
 
