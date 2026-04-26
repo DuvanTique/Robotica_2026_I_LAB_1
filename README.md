@@ -66,7 +66,7 @@ Decoración de una torta virtual usando un robot industrial ABB IRB 140. El obje
 
 ---
 ### Plano de planta (Ubicación de los elementos)
-[Planos de planta](/PlanoPlanta Dibujo v1.pdf)
+[Plano de planta](/PlanoPlanta.pdf)
 
 ##  Calibración de Herramienta (TCP)
 
