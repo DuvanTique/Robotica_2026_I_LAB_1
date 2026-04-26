@@ -1,4 +1,4 @@
-# 🤖 Laboratorio No. 01 - Robótica Industrial
+#  Laboratorio No. 01 - Robótica Industrial
 
 ## Trayectorias, Entradas y Salidas Digitales
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 👥 Integrantes
+##  Integrantes
 
 | Nombre                      |
 |-----------------------------|
@@ -15,13 +15,13 @@
 
 ---
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Decoración de una torta virtual usando un robot industrial ABB IRB 140. El objetivo es escribir nombres y realizar decoraciones sobre una superficie plana mediante trayectorias de movimiento, calibración de herramientas y control de entradas y salidas digitales.
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 - Calibración de herramientas (TCP) en robot real y RobotStudio
 - Programación de trayectorias MoveJ y MoveL en RAPID
@@ -32,7 +32,7 @@ Decoración de una torta virtual usando un robot industrial ABB IRB 140. El obje
 
 ---
 
-## 📦 Requerimientos
+##  Requerimientos
 
 ### Software
 - **RobotStudio** v5.0 o superior
@@ -50,7 +50,7 @@ Decoración de una torta virtual usando un robot industrial ABB IRB 140. El obje
 
 ---
 
-## 🔧 Especificaciones del Trabajo
+##  Especificaciones del Trabajo
 
 ### Restricciones de Diseño
 
@@ -66,7 +66,7 @@ Decoración de una torta virtual usando un robot industrial ABB IRB 140. El obje
 
 ---
 
-## 🛠️ Calibración de Herramienta (TCP)
+##  Calibración de Herramienta (TCP)
 
 ### Procedimiento
 
@@ -91,7 +91,7 @@ Decoración de una torta virtual usando un robot industrial ABB IRB 140. El obje
 
 ---
 
-## 📍 Calibración del Work Object
+##  Calibración del Work Object
 
 ### Procedimiento
 
@@ -112,7 +112,7 @@ Decoración de una torta virtual usando un robot industrial ABB IRB 140. El obje
 
 ---
 
-## 🔌 Entradas y Salidas Digitales
+##  Entradas y Salidas Digitales
 
 ### Configuración de Señales
 
@@ -134,7 +134,7 @@ Decoración de una torta virtual usando un robot industrial ABB IRB 140. El obje
 
 ---
 
-## 🚚 Control de Transporte
+##  Control de Transporte
 
 ### Secuencia de Operación
 
@@ -153,7 +153,7 @@ Decoración de una torta virtual usando un robot industrial ABB IRB 140. El obje
 
 ---
 
-## 📊 Flujos de Operación
+##  Flujos de Operación
 
 ### Rutina de Decorado
 
@@ -171,7 +171,7 @@ Decoración de una torta virtual usando un robot industrial ABB IRB 140. El obje
 
 ---
 
-## 💻 Funciones Utilizadas en el Código RAPID
+##  Funciones Utilizadas en el Código RAPID
 
 ### Constantes
 
@@ -314,7 +314,7 @@ pActual := Offs(pActual, l_width + l_space, 0, 0);  ! Siguiente letra
 
 ---
 
-## 📁 Código RAPID
+##  Código RAPID
 
 El código completo del módulo RAPID está disponible en el archivo `Module1.mod`.
 
@@ -322,7 +322,7 @@ El código completo del módulo RAPID está disponible en el archivo `Module1.mo
 
 ---
 
-## 🎨 Diseño de la Herramienta
+##  Diseño de la Herramienta
 
 La herramienta del robot fue diseñada mediante impresión 3D utilizando PLA como material base. 
 
@@ -342,7 +342,7 @@ La herramienta del robot fue diseñada mediante impresión 3D utilizando PLA com
 
 ---
 
-## 🎥 Simulación en RobotStudio
+##  Simulación en RobotStudio
 
 Visualice la simulación completa del proceso de decorado en RobotStudio:
 
@@ -352,13 +352,17 @@ Visualice la simulación completa del proceso de decorado en RobotStudio:
 
 ---
 
-## 🏭 Implementación en Laboratorio
+##  Implementación en Laboratorio
 
 Implementación real del sistema en el laboratorio de robótica:
 
 [![Implementación Real](https://img.youtube.com/vi/yADe7vtRQms/0.jpg)](https://youtu.be/yADe7vtRQms)
 
 **Descripción:** Prueba del robot ABB IRB 140 decorando un pastel con los nombres "LUIS" y "DUVAN".
+
+### Resultado:
+
+![WorkObjetFinal](Imagenes/Resultado.jpeg)
 
 ---
 
