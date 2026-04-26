@@ -109,9 +109,15 @@ Secuencia:
 8. El robot vuelve a home
 9. El pastel se traslada automáticamente
 
-![Diagrama del flujo](ABB_IRC140_flow_diagram.svg).
+### Rutina de decorado
 
-### Codigo RAPID
+![Diagrama del flujo](ABB_IRC140_flow_diagram.svg)
+
+### Ruina de Mantenimiento
+
+![Diagrama del flujo](ABB_IRC140_maintenance_flow.svg)
+
+### Código RAPID
 
 [Ver módulo RAPID Module1](/Module1.mod)
 
@@ -128,7 +134,7 @@ La herramienta del robot fue diseñada mediante impresión 3D utilizando PLA com
 
 ---
 
-### Simulaciónn en robotStudio
+### Simulación en robotStudio
 [![Ver video](https://img.youtube.com/vi/98ZQVTQvyAo/0.jpg)](https://youtu.be/98ZQVTQvyAo)
 
 ---
